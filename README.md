@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ6cG4xc28zazIwNzc5NzBibTlkenRla2VsZGp1ajJ2MjAxYzIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)" width="100"/>
+  <img src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv)" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -36,7 +36,7 @@
 ### Conecte-se Comigo
 
 <p align="center">
-  <a href="[URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/maria-eduarda-braga-47351b292)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-braga-47351b292"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60"/></a>
 </p>
 
 ---
