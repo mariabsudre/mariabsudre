@@ -1,16 +1,54 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ6cG4xc28zazIwNzc5NzBibTlkenRla2VsZGp1ajJ2MjAxYzIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)" width="100"/>
+</div>
 
-<!--
-**mariabsudre/mariabsudre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="[URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/maria-eduarda-braga-47351b292)">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="URL_DO_SEU_SITE_OU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-Site-blueviolet?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">Oie! Me chamo Maria Eduarda. 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+
+---
+
+<p align="center">
+  Sou estudante de Análise e Desenvolvimento de Sistemas na **FAMINAS**. Atualmente no 4º período, estou em uma jornada para me tornar uma desenvolvedora completa, explorando tanto o mundo do back-end quanto o do front-end.
+</p>
+
+<p align="center">
+  Tenho me dedicado a aprofundar meus conhecimentos em:
+  <ul>
+    <li>**Java** para desenvolvimento de aplicações robustas.</li>
+    <li>**HTML, CSS e JavaScript** para a criação de interfaces web modernas e interativas.</li>
+    <li>**Banco de Dados**, entendendo como projetar e gerenciar informações eficientes.</li>
+    <li>**UI/UX e Design Gráfico**, combinando a lógica da programação com a arte do design.</li>
+  </ul>
+</p>
+
+---
+
+### Conecte-se Comigo
+
+<p align="center">
+  <a href="[URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/maria-eduarda-braga-47351b292)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+</p>
+
+---
+
+### Linguagens e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,vscode,git" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWa5UlnMdldEQL/giphy.gif" width="60" />
+</div>
