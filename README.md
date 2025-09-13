@@ -48,7 +48,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWa5UlnMdldEQL/giphy.gif" width="60" />
-</div>
